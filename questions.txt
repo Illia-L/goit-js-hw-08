@@ -1,0 +1,1 @@
+- description - for caption for large image in modal. I can't see any caption neither on video, nor in figma.
