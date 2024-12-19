@@ -95,7 +95,7 @@ function handleClick(e) {
   basicLightbox
     .create(
       `
-		<img height="640" src="${e.target.dataset.source}">
+		<img height="640" src="${e.target.dataset.source}" alt="${e.target.alt}">
 	`,
       { className: 'lightbox-custom' }
     )
